@@ -1,0 +1,22 @@
+# System
+.DS_Store
+
+# Binaries and stuff
+build
+dist
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Development
+.idea
+.vscode
+.notes
+scratch
+*.out
+*.log
