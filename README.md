@@ -10,20 +10,6 @@ A home for project Herd - more info soon...
 Coming soon...
 
 
-## TODO
-
-- [ ] Add architectural drawing
-- [ ] Add `About the Project` to the readme file
-- [ ] Initial docs on the prototype
-- [ ] Create roadmap
-- [ ] Import prototype
-- [ ] Setup up build environment
-- [ ] Setup `nightly` repository
-- [ ] QA environment
-- [ ] Public Demo (more to come...)
-- [ ] Create and link client lib repository
-
-
 ## Roadmap
 
 Also coming soon... I promise...
