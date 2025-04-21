@@ -19,10 +19,3 @@ Also coming soon... I promise...
 ## License
 
 Distributed under the MPL2.0 License. See `LICENSE` for more information.
-
-
-## Contact
-
-Steffen Park - [@istherepie](https://twitter.com/istherepie) - steffen@nodebender.net
-
-Bjorn Jørgensen - [@iobear2](https://twitter.com/iobear2) - bjorn@nodebender.net
